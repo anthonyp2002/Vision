@@ -1,0 +1,3 @@
+/home/apulla/Escritorio/Vision_P64/Class/Peatones/CMakeFiles/rebuild_cache.dir
+/home/apulla/Escritorio/Vision_P64/Class/Peatones/CMakeFiles/edit_cache.dir
+/home/apulla/Escritorio/Vision_P64/Class/Peatones/CMakeFiles/Principal.dir

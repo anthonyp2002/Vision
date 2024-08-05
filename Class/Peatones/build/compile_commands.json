@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/apulla/Escritorio/Vision_P64/Class/Peatones/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/Principal.dir/Principal.cpp.o -c /home/apulla/Escritorio/Vision_P64/Class/Peatones/Principal.cpp",
+  "file": "/home/apulla/Escritorio/Vision_P64/Class/Peatones/Principal.cpp"
+}
+]

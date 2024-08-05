@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/apulla/Escritorio/Vision_P64/Practicas/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/Practica.dir/Practica.cpp.o -c /home/apulla/Escritorio/Vision_P64/Practicas/Practica.cpp",
+  "file": "/home/apulla/Escritorio/Vision_P64/Practicas/Practica.cpp"
+}
+]

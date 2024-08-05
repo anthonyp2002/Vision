@@ -1,0 +1,14 @@
+#Comentarios
+
+#P2→ Indica imagen en formato ASCII
+4 7
+
+15 -> Indica el limite de niveles de grisis segun los bits
+
+0 3 5 0
+1 0 7 0
+0 0 8 0
+0 0 12 0
+0 0 10 0
+0 0 6 0
+0 0 9 0

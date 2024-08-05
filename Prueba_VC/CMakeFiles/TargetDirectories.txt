@@ -1,0 +1,3 @@
+/home/apulla/Escritorio/Prueba_VC/CMakeFiles/rebuild_cache.dir
+/home/apulla/Escritorio/Prueba_VC/CMakeFiles/edit_cache.dir
+/home/apulla/Escritorio/Prueba_VC/CMakeFiles/Prueba.dir

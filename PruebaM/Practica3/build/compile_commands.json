@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/apulla/Escritorio/PruebaM/Practica3/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/MIm.dir/MIm.cpp.o -c /home/apulla/Escritorio/PruebaM/Practica3/MIm.cpp",
+  "file": "/home/apulla/Escritorio/PruebaM/Practica3/MIm.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/apulla/Escritorio/PruebaM/Practica1MAnuejoImg/CMakeFiles/rebuild_cache.dir
+/home/apulla/Escritorio/PruebaM/Practica1MAnuejoImg/CMakeFiles/edit_cache.dir
+/home/apulla/Escritorio/PruebaM/Practica1MAnuejoImg/CMakeFiles/MIm.dir

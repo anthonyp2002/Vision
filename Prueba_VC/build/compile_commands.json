@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/apulla/Escritorio/Prueba_VC/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/Prueba.dir/Prueba.cpp.o -c /home/apulla/Escritorio/Prueba_VC/Prueba.cpp",
+  "file": "/home/apulla/Escritorio/Prueba_VC/Prueba.cpp"
+}
+]
